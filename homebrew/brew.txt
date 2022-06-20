@@ -1,0 +1,6 @@
+gh
+hashicorp/tap/terraform
+lazygit
+neovim
+nvm
+pyenv
