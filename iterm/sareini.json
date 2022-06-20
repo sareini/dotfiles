@@ -352,7 +352,7 @@
     "Red Component" : "0.8",
     "Blue Component" : "0"
   },
-  "Name" : "Main",
+  "Name" : "Sareini",
   "Blinking Cursor" : false,
   "Guid" : "EE72700B-02C4-468F-9E94-EF5E48EEBA1F",
   "Idle Code" : 0,
@@ -384,7 +384,7 @@
   },
   "AWDS Pane Directory" : "",
   "Blur" : true,
-  "Normal Font" : "MesloLGMForPowerline-Regular 14",
+  "Normal Font" : "Monaco 12",
   "Vertical Spacing" : 1,
   "Ansi 7 Color" : {
     "Green Component" : "0.8431373",
@@ -419,7 +419,7 @@
   },
   "Transparency" : 0.10602197017766497,
   "Background Color" : {
-    "Red Component" : 0.044032916892319918,
+    "Red Component" : 0.044032916892319932,
     "Color Space" : "sRGB",
     "Blue Component" : 0.239898681640625,
     "Alpha Component" : 1,
@@ -436,8 +436,8 @@
     "Red Component" : "0.6784314",
     "Blue Component" : "0.6588235"
   },
-  "Use Tab Color" : false,
   "Columns" : 80,
+  "Use Tab Color" : false,
   "Visual Bell" : false,
   "Custom Directory" : "No",
   "Ansi 5 Color" : {
